@@ -1,3 +1,6 @@
+## how to use
+
+exec (Ctrl + maj + p) this command: VDM
 
 ## Features
 
