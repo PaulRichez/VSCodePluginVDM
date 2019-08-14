@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^1.37.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/PaulRichezE-Mothep/VSCodePluginVDM.git"
+	},
 	"categories": [
 		"Other"
 	],
