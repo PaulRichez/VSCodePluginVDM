@@ -3,8 +3,9 @@
 	"displayName": "VDM",
 	"description": "Lisez discrétement vos VDM dans VSCode",
 	"version": "0.0.1",
+	"publisher": "maxituc",
 	"engines": {
-		"vscode": "^1.35.0"
+		"vscode": "^1.37.0"
 	},
 	"categories": [
 		"Other"
